@@ -1,2 +1,2 @@
 
-from   gcr.io/knative-samples/helloworld-go:latest
+from   docker.io/istio/pilot:1.9.5

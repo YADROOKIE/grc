@@ -1,2 +1,2 @@
 
-from   docker.io/istio/pilot:1.9.5
+from   docker.io/envoyproxy/envoy:v1.16-latest

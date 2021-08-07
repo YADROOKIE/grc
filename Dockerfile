@@ -1,2 +1,2 @@
 
-from   docker.io/envoyproxy/envoy:v1.16-latest
+from   gcr.io/knative-releases/knative.dev/eventing/cmd/controller:v0.24.0

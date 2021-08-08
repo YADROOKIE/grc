@@ -1,2 +1,2 @@
 
-from    gcr.io/knative-releases/knative.dev/eventing/cmd/event_display
+from    gcr.io/knative-releases/knative.dev/eventing/cmd/heartbeats

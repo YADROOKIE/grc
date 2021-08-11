@@ -1,2 +1,2 @@
 
-from    k8s.gcr.io/ingress-nginx/controller:v0.48.1
+from    quay.io/coreos/flannel:v0.14.0

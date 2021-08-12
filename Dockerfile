@@ -1,2 +1,2 @@
 
-from  gcr.io/kaniko-project/executor
+from  lachlanevenson/k8s-kubectl

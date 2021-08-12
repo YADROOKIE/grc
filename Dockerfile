@@ -1,2 +1,2 @@
 
-from   gcr.io/google.com/cloudsdktool/cloud-sdk:302.0.0-slim
+from   gcr.io/distroless/base@sha256:aa4fd987555ea10e1a4ec8765da8158b5ffdfef1e72da512c7ede509bc9966c4

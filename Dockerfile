@@ -1,2 +1,2 @@
 
-from   gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.26.0
+from   gcr.io/google.com/cloudsdktool/cloud-sdk:302.0.0-slim

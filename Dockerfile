@@ -1,2 +1,2 @@
 
-from   gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.26.0
+from   gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.26.0

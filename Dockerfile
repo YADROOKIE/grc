@@ -1,2 +1,2 @@
 
-from  lachlanevenson/k8s-kubectl
+from  gcr.io/cadvisor/cadvisor:latest
